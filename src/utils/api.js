@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000'; // Change to production URL later
+const API_BASE_URL = 'https://srm-backend-2-7pdn.onrender.com'; // Production backend URL
 
 export const callBfhlApi = async (data) => {
   try {
